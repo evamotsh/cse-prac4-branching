@@ -1,0 +1,26 @@
+1. What branches exist in this project?
+
+answers
+master
+bower
+index
+landing
+landing-ru
+package
+
+
+2. What branch has been merged into master?
+
+index
+
+
+3. How many commits (in total) does the repository have?
+
+8 commits
+
+
+4. What commits belong to branch package that don't belong to the branch master?
+
+cab8d80 (HEAD -> package, origin/package) Removed lock
+8bfb714 Added locked package
+daa9e63 Added package
